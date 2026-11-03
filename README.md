@@ -8,3 +8,5 @@ label
 0 = Benign (safe URL)
 1 = Phishing (Malicious URL)
 
+Character N-gram : One method used to divide text into tokens
+TF-IDF : Term Frequency - Inverse Document Frequency
